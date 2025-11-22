@@ -3,8 +3,6 @@ public class Main {
 
         int[] numbers = {5, 2, 9, 4, 7};
 
-        System.out.println("=== Live Demo Addition ===");
-
         System.out.println("=== Basic Feature ===");
         NumberProcessor.processArray(numbers);
 
