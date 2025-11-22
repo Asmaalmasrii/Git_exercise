@@ -4,6 +4,7 @@ public class NumberProcessor {
     // Even numbers -> add
     // Odd numbers -> multiply
     public static void processArray(int[] numbers) {
+        System.out.println("Running Feature 1: Basic even/odd processing");
         int sumEven = 0;
         int productOdd = 1;
 
