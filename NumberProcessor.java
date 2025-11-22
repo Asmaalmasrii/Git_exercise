@@ -24,6 +24,7 @@ public class NumberProcessor {
     // Even -> divided by 2
     // Odd  -> multiplied by 3
     public static void advancedProcess(int[] numbers) {
+        System.out.println("Running Feature 2: Advanced even/odd operations");
         System.out.println("Advanced processing:");
 
         for (int n : numbers) {
